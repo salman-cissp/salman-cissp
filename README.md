@@ -1,4 +1,4 @@
-<h1>Hi, I'm Salman! <br/><a href="https://github.com/salman-cissp">Cloud Professional</a>, <a href="https://www.linkedin.com/in/salman-cissp/">Cybersecurity Professional</a>, <a href="https://www.medium.com/c/@salman-cissp">Content Writer</a></h1>
+<h1>Hi, I'm Salman! <br/><a href="https://github.com/salman-cissp">Cloud Professional</a>, <a href="https://www.linkedin.com/in/salman-cissp/">Cybersecurity Professional</a>, <a href="https://www.medium.com/@salman-cissp">Content Writer</a></h1>
 
 <h2>👨‍💻 Cloud Projects:</h2>
 
