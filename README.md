@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cloud Projects:</h2>
 
 - <b>Deploying Web Apps to Azure</b>
-  - [Deploying Books store web app to Azure](https://github.com/salman-cissp/-)
+  - [Deploying Books store web app to Azure]([https://github.com/salman-cissp/-](https://github.com/salman-cissp/Deploy.WebApp.to.Azure))
 
 <h2>🎓 Certifications</h2>
 
