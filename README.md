@@ -6,6 +6,9 @@
   - [Deploying Books store web app to Azure](https://github.com/salman-cissp/Deploy.WebApp.to.Azure)
   - [Hosting a resume in Azure](https://github.com/salman-cissp/azure.resume)
 
+- <b>IaaC Tools</b>
+  - [Deploying Web App with Database using Terraform](https://github.com/salman-cissp/tf-webapp)
+
 
 
 <h2>🎓 Certifications</h2>
