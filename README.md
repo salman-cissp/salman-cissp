@@ -8,6 +8,7 @@
 
 - <b>IaaC Tools</b>
   - [Deploying Web App with Database using Terraform](https://github.com/salman-cissp/tf-webapp)
+  - [Deploying ASP .NET Core Web App using Terraform via GitOps](https://github.com/salman-cissp/TF-Deploy.Web.App)
 
 
 
